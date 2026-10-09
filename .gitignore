@@ -1,0 +1,12 @@
+__pycache__/
+
+*.exe
+
+build/
+dist/
+
+ai_config.json
+openings_cache.json
+initial_game.json
+*.db
+*.log
